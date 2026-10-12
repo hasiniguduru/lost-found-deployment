@@ -1,0 +1,6 @@
+{
+  "name": "Veritas Campus Custody & Lost-Found",
+  "description": "University lost and found registry, fixed collection hub custody tracking, and ownership verification system with JWT authentication and role-based access control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
